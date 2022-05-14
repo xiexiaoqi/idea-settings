@@ -1,0 +1,43 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CopyrightManager" default="rt-mart">
+        <module2copyright>
+          <element module="All" copyright="rt-mart" />
+        </module2copyright>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="E:/svn/freshreturn/01branches/freshreturn_fn_grp/.idea/copyright/rt_mart.xml" />
+        <property name="settings.editor.selected.configurable" value="copyright" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="Copyright.UI">
+            <settings>
+              <last-edited>rt-mart</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.17216495" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
