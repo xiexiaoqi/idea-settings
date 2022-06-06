@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\order-common\src\main\java\com\feiniu\order\ogc\common\utils\AmountUtils.java [order-common]'" />
-    <option name="defaultScopeName" value="File '…\order-common\src\main\java\com\feiniu\order\ogc\common\utils\AmountUtils.java [order-common]'" />
-    <option name="SEARCH_SCOPE" value="File '…\order-common\src\main\java\com\feiniu\order\ogc\common\utils\AmountUtils.java [order-common]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.*</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
