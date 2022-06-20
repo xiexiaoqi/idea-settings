@@ -7,8 +7,8 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping pattern="bootstrap-**.properties" type="Properties" />
       <mapping pattern="application-**.properties" type="Properties" />
+      <mapping pattern="bootstrap-**.properties" type="Properties" />
       <mapping pattern="application.properties" type="Properties" />
       <mapping pattern="bootstrap.properties" type="Properties" />
       <mapping pattern="bootstrap-**.y**ml" type="YAML" />
