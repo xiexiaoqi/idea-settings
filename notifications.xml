@@ -2,6 +2,6 @@
   <component name="NotificationConfiguration">
     <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Language Plugins Notifications" displayType="NONE" shouldLog="false" />
-    <notification groupId="Lombok plugin" shouldLog="false" />
+    <notification groupId="Lombok plugin" displayType="NONE" shouldLog="false" />
   </component>
 </application>
