@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/apiclient/src/main/java/com/feiniu/order/apiclient/entity/BankBranchesEntity.java [ips-apiclient]'" />
-    <option name="defaultScopeName" value="File '…/apiclient/src/main/java/com/feiniu/order/apiclient/entity/BankBranchesEntity.java [ips-apiclient]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…/apiclient/src/main/java/com/feiniu/order/apiclient/entity/BankBranchesEntity.java [ips-apiclient]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.*</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
