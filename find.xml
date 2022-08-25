@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Merge from 20220825_hotfix" />
+    <option name="defaultScopeName" value="Merge from 20220825_hotfix" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Merge from 20220825_hotfix" />
     <mask>*.*</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
