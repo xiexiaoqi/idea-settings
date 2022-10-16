@@ -6,6 +6,15 @@
           <option name="models">
             <list>
               <GrepModel>
+                <option name="expression" value="252f00e4-28a6-4800-90e7-61bb27dfc4df" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
                 <option name="expression" value="" />
               </GrepModel>
             </list>
@@ -15,7 +24,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="252f00e4-28a6-4800-90e7-61bb27dfc4df" />
+                <option name="expression" value="无" />
               </GrepModel>
             </list>
           </option>
@@ -180,6 +189,6 @@
         </Profile>
       </list>
     </option>
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
 </application>
