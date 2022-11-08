@@ -15,7 +15,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="" />
+                <option name="expression" value="无" />
               </GrepModel>
             </list>
           </option>
@@ -24,7 +24,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="无" />
+                <option name="expression" value="" />
               </GrepModel>
             </list>
           </option>
