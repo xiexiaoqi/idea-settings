@@ -4,14 +4,15 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Globa" />
       <item value="熟食券" />
       <item value="Deli" />
       <item value="veteranInteger" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="12" />
         <entry key="ARABIC" value="1" />
       </map>
     </option>
